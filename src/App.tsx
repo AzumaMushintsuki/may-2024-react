@@ -1,8 +1,8 @@
-import React from 'react';
+import React, {FC} from 'react';
 import './App.css';
 
 
-function App() {
+function App():FC {
     return (
         <div>
 
